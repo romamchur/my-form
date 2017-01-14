@@ -10,7 +10,7 @@
     right: 400px;
 }
 
-.h {
+h1 {
     font-family: Segoe Script;
     z-index: 2;
     color: antiquewhite;
@@ -136,21 +136,11 @@ div {
     top: 550px;
 }
 
-.iconfacebook {
+
+.icon {
     width: 25px;
     height: 25px;
 }
-
-.icontwitter {
-    width: 25px;
-    height: 25px;
-}
-
-.iconvk {
-    width: 25px;
-    height: 25px;
-}
-
 .labelcountry {
     font-size: 14px;
     left: 800px;
