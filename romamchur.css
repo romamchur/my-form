@@ -21,14 +21,14 @@ h1 {
 }
 
 .signPassword {
-    position: absolute;
+    position:absolute;
     top: 20px;
-    right: 200px;
+    right:200px;
 }
 
 .signButton {
     top: 20px;
-    background-color: yellowgreen;
+    background-color: snow;
     position: absolute;
     right: 100px;
 }
@@ -108,13 +108,13 @@ div {
 .choosecountry {
     font-size: 16px;
     left: 800px;
-    top: 2oopx;
+    top: 130px;
     position: absolute;
 }
 
 .country {
     left: 800px;
-    top: 230px;
+    top: 200px;
     position: absolute;
 }
 
@@ -142,8 +142,8 @@ div {
     height: 25px;
 }
 .labelcountry {
-    font-size: 14px;
+    font-size: 16px;
     left: 800px;
-    top: 200px;
+    top: 170px;
     position: absolute;
 }
